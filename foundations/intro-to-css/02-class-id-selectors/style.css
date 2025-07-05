@@ -1,0 +1,18 @@
+.odd {
+  font-family: verdana, 'deja vu sans', sans-serif;
+  background-color: #fdb1b1;
+}
+
+#nmb2 {
+  color: #0b07fc;
+  font-size: 36px;
+}
+
+.fz24 {
+  font-size: 24px;
+}
+
+#nmb4 {
+  background-color: #10d853;
+  font-weight: bold;
+}

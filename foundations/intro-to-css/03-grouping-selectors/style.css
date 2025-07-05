@@ -1,0 +1,14 @@
+.cls1,
+.cls2 {
+  font-size: 28px;
+  font-family: helvetica, 'Times New Roman', sans-serif;
+}
+
+.cls1 {
+  background-color: #000;
+  color: #fff;
+}
+
+.cls2 {
+  background-color: #fbff11;
+}
